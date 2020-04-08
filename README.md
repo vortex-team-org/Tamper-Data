@@ -11,6 +11,6 @@ Allows the user to modify requests as they happen.
 
 
 
-# To contact us
+# contact us:
 * Website: [vortex-team.org](https://vortex-team.org)
 * Telegram: [vortex_team_org](https://t.me/vortex_team_org)
